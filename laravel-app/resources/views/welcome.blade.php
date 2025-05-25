@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>InsightMark</title></head><body><h1>Welcome to InsightMark MVP</h1></body></html>

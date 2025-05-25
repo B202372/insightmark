@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: insightmark
+    env: php
+    buildCommand: 'composer install'
